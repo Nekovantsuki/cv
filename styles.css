@@ -1,0 +1,16 @@
+body {
+  background-color: #FCF5EE;
+}
+
+hr {
+  border-style: none;
+  border-color: #FFC4D0;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1, h3 {
+  color: #EE6983;
+  font-family: "Anaheim";
+}
